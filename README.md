@@ -37,3 +37,7 @@ node hm.js
 ## Catatan
 
 - Setiap ada perubahan sumber kata (`.txt`), jalankan ulang `node hm.js` lalu commit hasilnya.
+
+## Dibuat dengan AI
+
+Proyek ini dibuat dengan AI
